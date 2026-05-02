@@ -16,5 +16,3 @@ This assignment recretes Link's house from Ocarina of Time with a controllable c
 ## Assignment 5
 This assignment uses marching cubes, math functions, and Phong shaders to generate a 3D surface.
 
-## Assignment 6
-This assignment uses Unity to create realistic 3D waves and a floating object.
